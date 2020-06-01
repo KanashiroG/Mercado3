@@ -1,0 +1,10 @@
+C:\Users\judo_\Desktop\Projetos Pessoais\Projetos Pessoais\bin\Debug\Projetos Pessoais.exe.config
+C:\Users\judo_\Desktop\Projetos Pessoais\Projetos Pessoais\bin\Debug\Projetos Pessoais.exe
+C:\Users\judo_\Desktop\Projetos Pessoais\Projetos Pessoais\bin\Debug\Projetos Pessoais.pdb
+C:\Users\judo_\Desktop\Projetos Pessoais\Projetos Pessoais\obj\Debug\Projetos Pessoais.csprojAssemblyReference.cache
+C:\Users\judo_\Desktop\Projetos Pessoais\Projetos Pessoais\obj\Debug\Projetos_Pessoais.Form1.resources
+C:\Users\judo_\Desktop\Projetos Pessoais\Projetos Pessoais\obj\Debug\Projetos_Pessoais.Properties.Resources.resources
+C:\Users\judo_\Desktop\Projetos Pessoais\Projetos Pessoais\obj\Debug\Projetos Pessoais.csproj.GenerateResource.cache
+C:\Users\judo_\Desktop\Projetos Pessoais\Projetos Pessoais\obj\Debug\Projetos Pessoais.csproj.CoreCompileInputs.cache
+C:\Users\judo_\Desktop\Projetos Pessoais\Projetos Pessoais\obj\Debug\Projetos Pessoais.exe
+C:\Users\judo_\Desktop\Projetos Pessoais\Projetos Pessoais\obj\Debug\Projetos Pessoais.pdb
